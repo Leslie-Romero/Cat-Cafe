@@ -1,0 +1,13 @@
+$primary: #3c5247;
+$primary-hover: darken($primary, 10%);
+$primary-border: #3c5247;
+
+$nav-link-color: #3d4b44;
+$nav-link-hover-color: #90c9a8;
+
+$form-check-input-checked-bg-color: #3d4b44;
+$form-check-input-checked-border-color: #3d4b447a;
+$form-check-input-focus-box-shadow: 0 0 0 0.25rem #9fc1b07a ;
+
+// Import all Bootstrap SCSS
+@import "../node_modules/bootstrap/scss/bootstrap";
